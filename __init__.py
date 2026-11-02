@@ -14,10 +14,10 @@ Provides collection nodes and processing stack nodes for:
 
 name = "SeisMIC Interferometry"
 version = "0.3.0"
-author = "GFZ / SeisMIC Team"
+author = "Daniel Binder"
 minPsysmonVersion = "0.0.1"
 description = "Passive seismic interferometry, autocorrelations, and dv/v monitoring with SeisMIC."
-website = "https://github.com/peter-makus/SeisMIC"
+website = "https://github.com/petermakus/SeisMIC"
 docEntryPoint = "SeisMIC_psysmon_guide.md"
 
 collection_node_modules = [
